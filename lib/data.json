@@ -1,0 +1,19 @@
+{
+    "sections": {
+      "promotion_banner_gPXbdr": {
+        "type": "promotion-banner"
+      },
+      "category_circles_G9U36b": {
+        "type": "category-circles",
+  
+        "sales_card_XqBLiU": {
+          "type": "sales-card"
+        }
+      }
+    },
+    "order": [
+      "promotion_banner_gPXbdr",
+      "category_circles_G9U36b",
+      "sales_card_XqBLiU"
+    ]
+  }
